@@ -1,4 +1,4 @@
-# Movies List Demo App
+# Movies List App
 
 Movie List, is an App  that provides list/detail view of movie items.
 
